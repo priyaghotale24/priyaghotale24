@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @priyaghotale24
 - 👀 I’m interested in Full Stack Java Development
 - 🌱 I’m currently pursuing B.Tech in Information Technology
-- 💞️ I’m looking to collaborate on internship and full time job
 - 📫 Software developer
 
 <!---
